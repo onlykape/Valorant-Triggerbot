@@ -18,7 +18,7 @@ A **Triggerbot** is a type of auto-shooter cheat that activates when your crossh
 
 ## Program Example
 
-![Program Screenshot](https://cdn.discordapp.com/attachments/1095340758359359530/1320690827852251219/71UB24O.png?ex=677467ee&is=6773166e&hm=31c5510111a660e8c2fcc0affef0c3d59ac8383e9e6f04ffdaea6d4c22a0a13d)
+![Program Screenshot](https://kapenote.notion.site/image/attachment%3Afa46964f-1fca-4dc4-94bc-b4785db7767f%3Aimage.png?table=block&id=194b0881-0048-8021-8fdd-d00a5b8b6119&spaceId=602af023-3902-4dd0-92bd-49daabec0088&width=1310&userId=&cache=v2)
 
 ---
 
